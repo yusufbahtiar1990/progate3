@@ -1,0 +1,11 @@
+*{
+    font-family: arial;
+    font-size: 50px;
+    text-align: center;
+}
+table {
+    border-color: #d63030;
+}
+#inputLabel {
+    text-align: right;
+}
